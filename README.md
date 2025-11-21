@@ -4,6 +4,6 @@ Practice repository for Dechmann Lab GitHub practice
 
 
 Participants:
-1.Francesco im fist lessgoo
-2.
-3.
+1. Jannis
+2. Andrea
+3. Francesco
