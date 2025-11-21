@@ -4,6 +4,6 @@ Practice repository for Dechmann Lab GitHub practice
 
 
 Participants:
-1.
-2.
-3.
+1. Jannis
+2. Italian 1
+3. Italian 2
